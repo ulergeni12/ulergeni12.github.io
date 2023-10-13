@@ -1,7 +1,7 @@
 title = "BLOGBAGUS"
 baseURL = "https://ulergeni12.github.io"
 languageCode = "id"
-theme = ""Ananke Gohugo Theme""
+theme = "Ananke Gohugo Theme"
 themesDir = "../.."
 
 MetaDataFormat = "yaml"
