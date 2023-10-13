@@ -1,7 +1,7 @@
-title = "Notre-Dame de Paris"
+title = "BLOGBAGUS"
 baseURL = "https://ulergeni12.github.io"
 languageCode = "id"
-theme = "ananke"
+theme = ""Ananke Gohugo Theme""
 themesDir = "../.."
 
 MetaDataFormat = "yaml"
